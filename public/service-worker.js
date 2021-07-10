@@ -9,7 +9,7 @@ const FILES_TO_CACHE = [
     "/icons/icon-512x512.png",
     "/index.js",
     "/local-db.js",
-    "https://cdn.jsdelivr.net/npm/chart.js@2.8.0",
+    "https://cdn.jsdelivr.net/npm/chart.js@2.8.0"
   ];
   const STATIC_CACHE = "static-cache-v1";
   const RUNTIME_CACHE = "runtime-cache";
