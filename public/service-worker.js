@@ -1,14 +1,14 @@
 
 const FILES_TO_CACHE = [
-    "/",
-    "/index.html",
-    "/manifest.json",
-    "/service-worker.js",
-    "/styles.css",
-    "/icons/icon-192x192.png",
-    "/icons/icon-512x512.png",
-    "/index.js",
-    "/local-db.js",
+    "./",
+    "./index.html",
+    "./manifest.json",
+    "./service-worker.js",
+    "./styles.css",
+    "./icons/icon-192x192.png",
+    "./icons/icon-512x512.png",
+    "./index.js",
+    "./local-db.js",
     "https://cdn.jsdelivr.net/npm/chart.js@2.8.0"
   ];
   const STATIC_CACHE = "static-cache-v1";
