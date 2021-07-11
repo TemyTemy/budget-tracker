@@ -17,3 +17,6 @@ A web app for tracking budget transactions online and locally when there is no i
 ## Dashboard - Local installation
 ![alt text](https://github.com/TemyTemy/budget-tracker/blob/main/Assets/deployment-local.png)
 
+## Progressive Web Report - Light House
+![alt text](https://github.com/TemyTemy/budget-tracker/blob/main/Assets/progressive-report-lighthouse.png)
+
