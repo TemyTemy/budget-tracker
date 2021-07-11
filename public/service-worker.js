@@ -11,8 +11,8 @@ const FILES_TO_CACHE = [
     "/local-db.js",
     "https://cdn.jsdelivr.net/npm/chart.js@2.8.0"
   ];
-  const STATIC_CACHE = "static-cache-v1";
-  const RUNTIME_CACHE = "runtime-cache";
+  const CACHE_NAME = "static-cache-v1";
+  const DATA_CACHE_NAME = "runtime-cache";
   
  // Service worker setup
 self.addEventListener("install", function (event) {
