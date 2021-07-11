@@ -1,4 +1,4 @@
-# budget Tracker
+# Budget Tracker
 A web app for tracking budget transactions online and locally when there is no interent connection.
 
 **Technologies Used: NodeJS, MongoDB, Express, Mongoose, Progressive Web Application Technologies, JavaScript**
@@ -12,5 +12,8 @@ A web app for tracking budget transactions online and locally when there is no i
 - User can view graphical representation of transactions.
 
 ## Dashboard - Remote installation
-![alt text](https://github.com/TemyTemy/budget-tracker/blob/main/Assets//Remote-Deployment-Heroku.PNG)
+![alt text](https://github.com/TemyTemy/budget-tracker/blob/main/Assets/Remote-Deployment-Heroku.PNG)
+
+## Dashboard - Local installation
+![alt text](https://github.com/TemyTemy/budget-tracker/blob/main/Assets/Deployment-Local.PNG)
 
