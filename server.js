@@ -14,9 +14,11 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 app.use(express.static("public"));
-mongoose.connect("mongodb://localhost:27017/budget", {
+mongoose.connect(process.env.MONGODB || 'mongodb://localhost:27017/budget', {
   useNewUrlParser: true,
-  useFindAndModify: false
+  useUnifiedTopology: true,
+  useCreateIndex: true,
+  useUnifiedTopology: true,
 });
 
 // routes
