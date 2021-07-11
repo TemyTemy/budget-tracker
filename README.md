@@ -12,7 +12,7 @@ A web app for tracking budget transactions online and locally when there is no i
 - User can view graphical representation of transactions.
 
 ## Dashboard - Remote installation
-![alt text](https://github.com/TemyTemy/budget-tracker/blob/main/Assets/Remote-Deployment-Heroku.PNG)
+![alt text](https://github.com/TemyTemy/budget-tracker/blob/main/Assets/remote-deployment-heroku.PNG)
 
 ## Dashboard - Local installation
 ![alt text](https://github.com/TemyTemy/budget-tracker/blob/main/Assets/deployment-local.png)
