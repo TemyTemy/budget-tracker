@@ -17,6 +17,16 @@ A web app for tracking budget transactions online and locally when there is no i
 ## Dashboard - Local installation
 ![alt text](https://github.com/TemyTemy/budget-tracker/blob/main/Assets/deployment-local.png)
 
-## Progressive Web Report - Light House
+## Progressive Web Report - LightHouse Audit
 ![alt text](https://github.com/TemyTemy/budget-tracker/blob/main/Assets/progressive-report-lighthouse.png)
 
+
+## Link on Github
+
+- The source code repository is available at this link:https://github.com/TemyTemy/budget-tracker
+
+## Link on heroku
+- This web app is deployed and running at: https://budget-tracker-bootcamp-21.herokuapp.com/
+
+## Licence
+MIT
