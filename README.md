@@ -11,3 +11,6 @@ A web app for tracking budget transactions online and locally when there is no i
 - Offline entries are added to the tracker's database when online
 - User can view graphical representation of transactions.
 
+## Dashboard - Remote installation
+![alt text](https://github.com/TemyTemy/budget-tracker/blob/main/Assets//Remote-Deployment-Heroku.PNG)
+
